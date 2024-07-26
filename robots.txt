@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hurchnam.github.io/sitemap.html.gz
+Sitemap: https://hurchnam.github.io/app/sitemap.html.gz
+Sitemap: https://hurchnam.github.io/assets/sitemap.html.gz
+Sitemap: https://hurchnam.github.io/css/sitemap.html.gz
+Sitemap: https://hurchnam.github.io/includes/sitemap.html.gz
+Sitemap: https://hurchnam.github.io/item/sitemap.html.gz
+Sitemap: https://hurchnam.github.io/src/sitemap.html.gz
